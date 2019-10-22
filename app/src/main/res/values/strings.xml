@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android Files</string>
+    <string name="memoria_interna">Internal Storage</string>
+    <string name="memoria_externa">External Storage</string>
+    <string name="abrir_archivo">Open file</string>
+    <string name="salvar_archivo">Save file</string>
+    <string name="txt_ingrese_texto">Input Text</string>
+</resources>
